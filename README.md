@@ -157,7 +157,9 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Credits
 ![Dr Indu Chawla](https://www.jiit.ac.in/sites/default/files/CS%20Indu%20Chawla.JPG)
-A huge regards to [### Dr Indu Chawla](https://www.jiit.ac.in/dr-indu-chawla) mam.Her guidence and support saved my enormous amount of time while completing this project. 
+-|
+[ Dr Indu Chawla](https://www.jiit.ac.in/dr-indu-chawla)
+A huge regards to [Dr Indu Chawla](https://www.jiit.ac.in/dr-indu-chawla) mam.Her guidence and support saved my enormous amount of time while completing this project. 
 [Kaggle Datasets](https://www.kaggle.com/datasets) - This project wouldn't have been possible without this plateform. It 
 
 ## Team
