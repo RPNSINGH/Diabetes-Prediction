@@ -17,15 +17,25 @@ Early diabetes detection using ML models .
 
 
 ## Demo
-![Capture1](https://github.com/RPNSINGH/Bank_Loan_Prediction_System/blob/main/Bank_loan_prediction/images/Capture1.PNG)
-![Capture2](https://github.com/RPNSINGH/Bank_Loan_Prediction_System/blob/main/Bank_loan_prediction/images/Capture2.PNG)
+![Capture1](https://github.com/RPNSINGH/Diabetes-Prediction/blob/main/Diabetes%20Detection/images/final.png)
 
 ## Overview
-This is a simple Tkinter app trained with machine learning algorithms. The trained model (`Tkinter_GUI`) takes inputs (*ie Applicant's_Income($),CoApplicant's_Income($),Loan_Amount($),Loan_Amount_Term($),Gender,Married,Dependents,Education,Credit_History,Property_Area,Self_Employed*) as an input and predicts the loan approval status.
+This is a simple Tkinter app trained with machine learning algorithms. The trained model (`Tkinter_GUI`) takes inputs (*ie Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Outcome*) as an input and predicts the Type II diabetes status.
 
 ## Motivation
-During Covid pandemic all banks as well as customers faced tons of difficulties because of restrictions and due to that some customesrs whose business went down needed some funds (or Loans) from their banks to restart their business ,but due to unavailablity of their employees banks were unable . 
-So to overcome this and with respect to future aspects we must be prepared and thats where this Idea striked me about making a model that can perform analysis on a loan request (based on old loan requests and their eligiblity)  decides whether that request is eligible or not .
+This disease happens either when the pancreas does not produce enough insulin (type 1 diabetes) or when the produced insulin cannot be used efficiently by the body (type 2 diabetes). In type 1 diabetes, insulin-producing cells in the pancreas are destroyed. On the other hand, type 2 diabetes, usually occurs only after the age of 30 and is therefore often referred to as old-age diabetes. However, WHO reported also that between 24% and 62% of people with type 2 diabetes were undiagnosed and untreated.
+Diabetes mellitus (DM) is a form of metabolic disorder whereby the patients suffer high blood sugar levels because their bodies do not respond to, or produce inadequate,  insulin—a hormone that helps to stabilize the blood sugar (glucose) level by directing the cells to take up glucose and inhibit hepatic glucose production.
+IoT devices can help doctors make better decisions because the data collected by these devices are highly accurate. We can also take advantage of this advancement to collect health data in order to use it to predict future diabetes based on machine learning (ML)
+algorithms.
+### Risk Factors of Type II Diabetes:
+ 
+1.	Obesity
+2.	Sedentary Lifestyle
+3.	Ageing
+4.	Sex and Gender
+5.	Hypertension
+6.	Smoking
+7.	Alcohol
 
 ## Technical Aspect
 This project is divided into four part:
@@ -41,12 +51,20 @@ This project is divided into four part:
     - Z score method
     - IOR method
 3. Model selection and model training:
+  - Logistic Regression
   - Decision Tree Classifier
   - Random Forest Classifier
+  - Support Vector Classifier
+  - Naïve Bayes Classifier
+  - K-Nearest Neighbour(KNN)
+
 4. GUI (Tkinter)
 
 ## Installation
-The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries  
+The Code is written in Python 3.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries  
+## DataSets
+-  [PimaIndiansdiabetes ](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+-  [Hospital Frankfurt Germany diabetes dataset](https://www.kaggle.com/datasets/johndasilva/diabetes)
 
 ## Run
 [Python](https://www.python.org/downloads/)<br>
@@ -69,10 +87,10 @@ __Attention__: Please perform the steps given in these tutorials at your own ris
 │   ├── outliers_detectiona_removal.ipynb
 │   └── TKINTER_GUI.ipynb
 ├── datasets
-│   ├── bank.csv
-│   ├──preprocessed.csv
-│   ├──train.csv
-│
+│   ├──PimaIndiansdiabetes.csv
+│   ├──FrankfurtGermanyDiabetes.csv
+│   ├──FinalDiabetesDataset(Corr).csv
+│   ├──FinalDiabetesDataset(Avg)
 ├── images
 
 ```
@@ -101,5 +119,5 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 [Ratanjeet Pratap Narayan Singh]|)
 
 ## Credits
-- [Kaggle Datasets](https://www.kaggle.com/datasets) - This project wouldn't have been possible without this tool. It saved my enormous amount of time while collecting the data. A huge regards to [Krish Naik](https://in.linkedin.com/in/naikkrish) ,[Sudhanshu Kumar](https://www.linkedin.com/in/-sudhanshu-kumar/) and [iNeuron](https://ineuron.ai/) .
+- [Kaggle Datasets](https://www.kaggle.com/datasets) - This project wouldn't have been possible without this tool. It saved my enormous amount of time while collecting the data. A huge regards to [Dr Indu Chawla](https://www.jiit.ac.in/dr-indu-chawla)
 
