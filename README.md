@@ -155,11 +155,14 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ![sci](https://github.com/RPNSINGH/Bank_Loan_Prediction_System/blob/main/Bank_loan_prediction/images/sci.png)
 ![jupyter](https://github.com/RPNSINGH/Bank_Loan_Prediction_System/blob/main/Bank_loan_prediction/images/jupyter.png)
 
+## Credits
+![Dr Indu Chawla](https://www.jiit.ac.in/sites/default/files/CS%20Indu%20Chawla.JPG)
+A huge regards to [### Dr Indu Chawla](https://www.jiit.ac.in/dr-indu-chawla) mam.Her guidence and support saved my enormous amount of time while completing this project. 
+[Kaggle Datasets](https://www.kaggle.com/datasets) - This project wouldn't have been possible without this plateform. It 
+
 ## Team
 [![RPN](https://github.com/RPNSINGH/RPNSINGH/blob/main/RPN.jpg)] |
 -|
 [Ratanjeet Pratap Narayan Singh]|)
 
-## Credits
-- [Kaggle Datasets](https://www.kaggle.com/datasets) - This project wouldn't have been possible without this tool. It saved my enormous amount of time while collecting the data. A huge regards to ![Dr Indu Chawla]((https://www.jiit.ac.in/sites/default/files/CS%20Indu%20Chawla.JPG)(https://www.jiit.ac.in/dr-indu-chawla))
 
