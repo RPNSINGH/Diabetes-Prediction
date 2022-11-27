@@ -159,8 +159,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ![Dr Indu Chawla](https://www.jiit.ac.in/sites/default/files/CS%20Indu%20Chawla.JPG)
 -|
 [ Dr Indu Chawla](https://www.jiit.ac.in/dr-indu-chawla)
-A huge regards to [Dr Indu Chawla](https://www.jiit.ac.in/dr-indu-chawla) mam.Her guidence and support saved my enormous amount of time while completing this project. 
-[Kaggle Datasets](https://www.kaggle.com/datasets) - This project wouldn't have been possible without this plateform. It 
+A huge regards to [Dr Indu Chawla](https://www.jiit.ac.in/dr-indu-chawla)mam.While completing this project mam's guidance and support saved my enormous amount of time .And regards to [Kaggle Datasets](https://www.kaggle.com/datasets) plateform  - This project wouldn't have been possible without this plateform. 
 
 ## Team
 [![RPN](https://github.com/RPNSINGH/RPNSINGH/blob/main/RPN.jpg)] |
