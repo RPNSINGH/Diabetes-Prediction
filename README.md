@@ -17,7 +17,7 @@ Early diabetes detection using ML models .
 
 
 ## Demo
-![Diabeties](https://github.com/RPNSINGH/Diabetes-Prediction/blob/main/Diabetes%20Detection/images/gui.png?raw=true)
+![Diabeties Prediction App](https://github.com/RPNSINGH/Diabetes-Prediction/blob/main/Diabetes%20Detection/images/gui.PNG?raw=true)
 
 ## Overview
 This is a simple Tkinter app trained with machine learning algorithms. The trained model (`Tkinter_GUI`) takes inputs (*ie Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Outcome*) as an input and predicts the Type II diabetes status.
